@@ -92,10 +92,10 @@ This module focuses on the financial performance of Nykaa's stock (NYKAA.NS) fro
 **Key Visuals:**
 
 * **Closing Price Trend with Moving Averages:**
-    <img src="https://i.imgur.com/g88373b.png" alt="Stock Closing Price" width="700"/>
+    <img src="https://imgur.com/a/YOVXwqA" alt="Stock Closing Price" width="700"/>
 
 * **Interactive Excel Dashboard:**
-    <img src="https://i.imgur.com/2sM7h8x.png" alt="Excel Dashboard" width="700"/>
+    <img src="https://imgur.com/a/iiubkuv" alt="Excel Dashboard" width="700"/>
 
 ### 💬 Sentiment Analysis of App Reviews
 
@@ -111,10 +111,10 @@ This section analyzes customer feedback from the Nykaa mobile app to understand 
 **Key Visuals:**
 
 * **Sentiment Distribution:**
-    <img src="https://i.imgur.com/h5T27z4.png" alt="Sentiment Count" width="500"/>
+    <img src="https://imgur.com/a/Wj5whjO" alt="Sentiment Count" width="500"/>
 
 * **Review Word Cloud:**
-    <img src="https://i.imgur.com/s635q5K.png" alt="Word Cloud" width="700"/>
+    <img src="https://imgur.com/a/Mdh7j83" alt="Word Cloud" width="700"/>
 
 ### 🛍️ Product Portfolio Analysis (2022-2023)
 
@@ -133,16 +133,14 @@ This module dives deep into Nykaa's product listings from 2022 and 2023 to uncov
 **Key Visuals:**
 
 * **Top Product Categories (2023):**
-    <img src="https://i.imgur.com/L7p0l7N.png" alt="Top Categories" width="700"/>
+    <img src="https://imgur.com/a/jNMsBpt" alt="Top Categories" width="700"/>
 
 * **Top 10 Discounts Offered:**
-    <img src="https://i.imgur.com/uR2iR0N.png" alt="Top Discounts" width="700"/>
+    <img src="https://imgur.com/a/swzegMd" alt="Top Discounts" width="700"/>
 
 ---
 
-## ✨ Key Insights & Conclusion
-
-This multi-faceted analysis yielded several critical insights:
+## ✨ Key Insights & ConclusionThis multi-faceted analysis yielded several critical insights:
 
 * **Stock Performance:** Nykaa's stock has shown a consistent **downward trend** since its IPO, with the price frequently trading below its 50-day and 200-day moving averages, signaling market weakness. However, a slight recovery was noted in the final month of the analysis period.
 * **Customer Sentiment:** The overall sentiment towards the Nykaa app is **overwhelmingly positive**. Words like "love," "good," "product," and "app" dominate the reviews, indicating high customer satisfaction with the platform's user experience and product selection.
@@ -194,6 +192,6 @@ To explore this analysis on your local machine, follow these steps:
 * **Project Guide:** Mrs. Minal Dive
 * **Institution:** SK Somaiya College, Somaiya Vidyavihar University
 * **Data Sources:**
-    * Product & Review Data: [Kaggle](https://www.kaggle.com/datasets)
-    * Stock Data: [Yahoo Finance](https://finance.yahoo.com/)
+    * Product & Review Data: [Google Drive Link](https://drive.google.com/file/d/1bhQcYGYIxMjA-CfnL2y_ewjT4WYi4HyP/view?usp=sharing) , (https://drive.google.com/file/d/1r4wR98VQCyXLD_k89ah2AUTLC2K7t9KE/view?usp=sharing) , 
+    * Stock Data: [Yahoo Finance](https://drive.google.com/file/d/16TzUZ8M8auMbYIV-oprwyfHywtCC8ZXJ/view?usp=sharing)
 * **Inspiration:** This README was structured and styled to be a professional showcase of the original academic project.
