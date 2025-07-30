@@ -94,9 +94,6 @@ This module focuses on the financial performance of Nykaa's stock (NYKAA.NS) fro
 * **Closing Price Trend with Moving Averages:**
     <img src="https://i.imgur.com/ZqPtGi5.png" alt="Stock Closing Price" width="700"/>
 
-* **Interactive Excel Dashboard:**
-    <img src="blob:https://imgur.com/2a4f633b-b0ff-414f-89d2-5674adb4fd94.png" alt="Excel Dashboard" width="70"/>
-
 ### 💬 Sentiment Analysis of App Reviews
 
 This section analyzes customer feedback from the Nykaa mobile app to understand public sentiment.
