@@ -95,7 +95,7 @@ This module focuses on the financial performance of Nykaa's stock (NYKAA.NS) fro
     <img src="https://imgur.com/a/YOVXwqA" alt="Stock Closing Price" width="700"/>
 
 * **Interactive Excel Dashboard:**
-    <img src="https://imgur.com/a/iiubkuv" alt="Excel Dashboard" width="700"/>
+    <img src="https://imgur.com/a/iiubkuv" alt="Excel Dashboard" width="70"/>
 
 ### 💬 Sentiment Analysis of App Reviews
 
@@ -192,6 +192,6 @@ To explore this analysis on your local machine, follow these steps:
 * **Project Guide:** Mrs. Minal Dive
 * **Institution:** SK Somaiya College, Somaiya Vidyavihar University
 * **Data Sources:**
-    * Product & Review Data: [Google Drive Link](https://drive.google.com/file/d/1bhQcYGYIxMjA-CfnL2y_ewjT4WYi4HyP/view?usp=sharing) , (https://drive.google.com/file/d/1r4wR98VQCyXLD_k89ah2AUTLC2K7t9KE/view?usp=sharing) , 
+    * Product & Review Data: [Google Drive Link](https://drive.google.com/file/d/1bhQcYGYIxMjA-CfnL2y_ewjT4WYi4HyP/view?usp=sharing) 
     * Stock Data: [Yahoo Finance](https://drive.google.com/file/d/16TzUZ8M8auMbYIV-oprwyfHywtCC8ZXJ/view?usp=sharing)
 * **Inspiration:** This README was structured and styled to be a professional showcase of the original academic project.
