@@ -92,10 +92,10 @@ This module focuses on the financial performance of Nykaa's stock (NYKAA.NS) fro
 **Key Visuals:**
 
 * **Closing Price Trend with Moving Averages:**
-    <img src="https://imgur.com/a/YOVXwqA" alt="Stock Closing Price" width="700"/>
+    <img src="https://i.imgur.com/ZqPtGi5.png" alt="Stock Closing Price" width="700"/>
 
 * **Interactive Excel Dashboard:**
-    <img src="https://imgur.com/a/iiubkuv" alt="Excel Dashboard" width="70"/>
+    <img src="blob:https://imgur.com/2a4f633b-b0ff-414f-89d2-5674adb4fd94.png" alt="Excel Dashboard" width="70"/>
 
 ### 💬 Sentiment Analysis of App Reviews
 
@@ -111,10 +111,10 @@ This section analyzes customer feedback from the Nykaa mobile app to understand 
 **Key Visuals:**
 
 * **Sentiment Distribution:**
-    <img src="https://imgur.com/a/Wj5whjO" alt="Sentiment Count" width="500"/>
+    <img src="https://i.imgur.com/fsA9WS3.png" alt="Sentiment Count" width="500"/>
 
 * **Review Word Cloud:**
-    <img src="https://imgur.com/a/Mdh7j83" alt="Word Cloud" width="700"/>
+    <img src="https://i.imgur.com/UOzrBNo.png" alt="Word Cloud" width="700"/>
 
 ### 🛍️ Product Portfolio Analysis (2022-2023)
 
@@ -133,10 +133,10 @@ This module dives deep into Nykaa's product listings from 2022 and 2023 to uncov
 **Key Visuals:**
 
 * **Top Product Categories (2023):**
-    <img src="https://imgur.com/a/jNMsBpt" alt="Top Categories" width="700"/>
+    <img src="https://i.imgur.com/ATFREDb.png" alt="Top Categories" width="700"/>
 
 * **Top 10 Discounts Offered:**
-    <img src="https://imgur.com/a/swzegMd" alt="Top Discounts" width="700"/>
+    <img src="https://i.imgur.com/MumxQEj.png" alt="Top Discounts" width="700"/>
 
 ---
 
